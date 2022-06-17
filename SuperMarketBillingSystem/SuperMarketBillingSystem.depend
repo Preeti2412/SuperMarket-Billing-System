@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\hp\desktop\supermarket billing system\supermarketbillingsystem\main.cpp
+	<iostream>
+
+1655442405 source:c:\users\hp\desktop\supermarket billing system\supermarketbillingsystem\sourcecodesbs.cpp
+	<iostream>
+	<fstream>
+
